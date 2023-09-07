@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        GLMapManager.activate(apiKey: "86b57079-c24d-4a79-b7c4-d3b9e8eb47cf", resources: nil, storage: nil)
+        GLMapManager.activate(apiKey: , resources: nil, storage: nil)
         return true
     }
 
