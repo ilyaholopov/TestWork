@@ -1,0 +1,28 @@
+PODS:
+  - GLMap (1.7.3):
+    - "GLMap+DefaultStyle"
+    - "GLMap+WorldMap"
+    - GLMapCore (= 1.7.3)
+  - "GLMap+DefaultStyle (1.7.3)"
+  - "GLMap+WorldMap (23.05)"
+  - GLMapCore (1.7.3)
+
+DEPENDENCIES:
+  - GLMap
+
+SPEC REPOS:
+  trunk:
+    - GLMap
+    - "GLMap+DefaultStyle"
+    - "GLMap+WorldMap"
+    - GLMapCore
+
+SPEC CHECKSUMS:
+  GLMap: f98dd50c4f941d3b6ac94b14d7c9422c0dbb599d
+  "GLMap+DefaultStyle": 3c6792aa47a3366419f2bd25f150b52022bb3c9c
+  "GLMap+WorldMap": 5a56623b10a6552091d8ca2623a53af61eb6277b
+  GLMapCore: f1de967825adc53d19246f34d0c0d625ac4d85db
+
+PODFILE CHECKSUM: f0b504cbd5be576f0d3d0d5e03877b790075bc12
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,6 @@
+framework module GLMapCore {
+  umbrella header "GLMapCore.h"
+
+  export *
+  module * { export * }
+}
